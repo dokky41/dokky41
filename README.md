@@ -10,7 +10,5 @@
 
 
 
-
-<div align="center">
 ![dokky's GitHub stats](https://github-readme-stats.vercel.app/api?username=dokky&show_icons=true&theme=radical)
 </div>
