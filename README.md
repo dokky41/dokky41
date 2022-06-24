@@ -5,10 +5,10 @@
 
 <hr>
 
-<div align=left>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dokky&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-d
-<div align=right>
+
+&nbsp; 
+
 ![dokky's GitHub stats](https://github-readme-stats.vercel.app/api?username=dokky&show_icons=true&theme=radical)
-</div>
+
