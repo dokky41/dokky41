@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Dokky%20Room&fontSize=90)
 
-<div>
+<div align="center">
 <h1 style="background-color:lightgray">
 👋 Hi, I’m Dokky </h1>
 </div>
