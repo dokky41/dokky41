@@ -50,5 +50,6 @@
 
 </div>
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kld9223">
+[![Solved.ac
+dokky41](http://mazassumnida.wtf/api/generate_badge?boj=kld9223)](https://solved.ac/kld9223)
 
