@@ -51,6 +51,6 @@
 </div>
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kld9223)](https://solved.ac/kld9223/)
+<a href="https://github.com/dokky41"><img align="center" style="width:400px;" src="https://github-readme-stats.vercel.app/api?username=kld9223&&theme=nord&show_icons=true&hide=contribs&border_radius=10" /></a>
 
 
